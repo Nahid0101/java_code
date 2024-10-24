@@ -14,6 +14,8 @@ public class Main {
             System.out.println("i = " + i);
                    System.out.println("hello");
                    System.out.println("java codes");
+
+            System.out.println("random classsgit");
         }
     }
 }
